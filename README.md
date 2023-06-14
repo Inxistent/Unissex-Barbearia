@@ -4,7 +4,7 @@ Mais que uma barbearia, um local para estar e relaxar. Valorizamos cada personal
 
 A página <strong>home</strong> possui: 
 <ul>
-  <li>Informações sobre a barbearia Alura;</li>
+  <li>Informações sobre a barbearia Unissex;</li>
   <li>Sobre o estabelecimento;</li>
   <li>Benefícios.</li>
 </ul>
